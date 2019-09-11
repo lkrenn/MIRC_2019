@@ -1,5 +1,5 @@
 # MIRC_2019
-MIRC Team for the 2018/2019 year
+MIRC Team for the 2019/2020 year
 
 Resources (feel free to add any):
 
