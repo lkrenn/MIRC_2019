@@ -30,7 +30,7 @@ News sources:
    - crsp.com
         
 Resume-Boosters:
-  - Bloomberg Market Concepts, function BMC<GO> to see more details
+  - Bloomberg Market Concepts, function BMC< GO > to see more details
   
   - Gould Trading Floor Volunteer Internship Program (VIP)
       - Gives you an opportunity to learn more about the Bloomberg 
