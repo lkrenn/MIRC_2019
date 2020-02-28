@@ -1,0 +1,53 @@
+﻿eikon_code,note
+TR.PreferredRIC,RIC
+TR.FiIssuerName,Company name
+TR.FiIndustrySubSectorDescription,Industry
+TR.FiCountryName,Country name
+TR.FiIssuerCountryName,Issuer country
+TR.FiIssueDate,Issue date
+TR.FiMaturityDate,Maturity date
+TR.CA.AmtOutstanding,Outstanding
+TR.ADF_COUPON,ADF coupon
+TR.INDEX,Index underlying floating rate notes (FRN)
+TR.FICouponFrequency,Coupon frequency
+TR.FICouponTypeDescription,Coupon type
+TR.FiCouponEffectiveDate,Coupon effective date
+TR.IssuerRating,Issuer country
+TR.FiFitchsRating,Fitch's rating
+TR.FiMoodysRating,Moody's rating
+TR.FiSPRating,S&P's rating
+TR.FiPrice,Price
+TR.CLEAN_PRC,Clean price
+TR.DIRTY_PRC,Dirty price
+DURATION,Duration
+TR.MACAULAYDURATION,Macaulay duration
+TR.MODIFIEDDURATION,Modified duration
+TR.INTERPOLATEDCDSSPREAD,Interpolated CDS spread taking the difference of the yield to maturity of the underlying bond against the interpolated yield of the same maturity on the CDS reference curve
+TR.FIMaturityStandardYield,Maturity standard yield
+TR.ISMABIDYIELD,ISMA bid yield
+TR.ISMAASKYIELD,ISMA bid yield
+TR.ZSpreadAnalytics,Z-spread
+TR.FICallTypeDescription,Call Type
+PUTCALLIND,Option Type
+TR.OASAnalytics,
+TR.YieldToCallAnalytics,Yield to call
+TR.OPTIONADJUSTEDSPREADBID,
+TR.FiOptionAdjustedOptionValue,
+TR.FiOptionAdjustedSpread,
+TR.FiOptionAdjustedDown25Price,"Price structure of the security, assuming constand option-adjusted spread, when the term structure is shifted down 25-basis points"
+TR.FiOptionAdjustedDuration,Rate duration/OA duration
+TR.FiOptionAdjustedDV01,Dollar Duration
+TR.FiOptionAdjustedSpreadConvexity,
+TR.FiOptionAdjustedSpreadDuration,
+TR.FiOptionAdjustedUp25Price,
+TR.FiOptionAdjustedZeroVolSpread,
+TR.ZEROOPTIONADJUSTEDPRICE,
+TR.OPTIONADJUSTEDCONVEXITY,
+TR.CD.ExerciseType,
+TR.FiOptionAdjustedCost,
+TR.DurationAnalytics,
+TR.ModifiedDurationAnalytics,
+TR.ConvexityAnalytics,
+TR.FiDayCountmake ,
+TR.MUNIBulltetRedepmtionFlag,
+TR.MUNIMakeWholeCallFlag,
